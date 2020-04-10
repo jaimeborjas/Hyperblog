@@ -9,3 +9,7 @@ body{
     margin: 0 auto;
     
 }
+#cabecera{
+    color: tomato;
+    font-weight: bold;
+}
